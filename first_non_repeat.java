@@ -20,7 +20,7 @@ aaa.add(in.nextInt());
 		{	
 			if(aaa.get(i)==aaa.get(j+1))
 			{
-				System.out.println(aaa.get(i)+"\t"+"the value is"+i);
+				System.out.println(aaa.get(i));
 				count++;
 				break;
 				
